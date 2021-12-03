@@ -14,7 +14,4 @@ The answer is the 1980 Z80 version took about 3 months and the 1992 C version to
 
 The 1992 version has a rather smart demo mode, which the 1980 version did not have.
 
-There is one file TIMER.ASM from a defunct company called Ad Lib Inc.  If anyone knows the status of their
-Copyright, let me know and I'll put the file here.  Contact me if you want to know what it does.
-It's basically just a clock.  It's just a small assembly language file I thought they wanted to provide to
-everyone as information on how to use their sound card.
+TIMER.ASM is from BYTE Magazine, and is public domain and is not part of my Copyright.
